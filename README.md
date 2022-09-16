@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sudhanshu1008
+-  exploring android dev.
 - 🌱 Have Pace in C, Java , etc.
 - 💞️ I’m looking to learn more
 - 📫 connect with me via mail sudhanshushrivastava004@gmail.com or via INSTA @imsudhanshuxp
